@@ -1,3 +1,3 @@
 
 
-Repository with projects done in Excel.
+Repository with projects done using Excel.
